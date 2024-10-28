@@ -1,2 +1,2 @@
 # Bookbot
-first learning project
+BookBot is my first project!
